@@ -1,0 +1,39 @@
+nav {
+    height: 50px;
+    background-color: lightgrey;
+  }
+.inline-block {
+    padding: 15px;
+    display: inline-block;
+}
+
+.floatLeft {
+  display: inline-block;
+}
+
+.topImage {
+  float: left;
+}
+
+.size {
+  width: 45%;
+}
+
+.wrapper {
+  border: 1px solid red;
+  float: right;
+  width: 70%;
+}
+
+.left {
+  float: left;
+  width: 28%;
+}
+
+.imageAside {
+  width: 300px;
+}
+
+.column {
+  border: 1px solid red;
+}
